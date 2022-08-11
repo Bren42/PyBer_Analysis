@@ -24,11 +24,11 @@ As we had mentioned before the total rides is heavily skewed towards urban areas
 
 However lets look at how the rides as a percentage of the whole and driver counts as a percentage of the whole stack up against each other.
 
-![This is an image}(https://github.com/Bren42/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![This is an image](https://github.com/Bren42/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 As we can see in the chart Urban areas account for 68% of all rides in this timeframe, suburban making up another 26% and again rural following with 5%.
 
-![This is an image}(https://github.com/Bren42/PyBer_Analysis/blob/main/analysis/Fig7.png)
+![This is an image](https://github.com/Bren42/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 When we look at the driver data though we see that urban has an outsized number of drivers at nearly 81% of all drivers even though they are only 68% of all rides, a 13% upwards swing. Suburban is drawing 26% of the ride volume with only 16.5% of the drivers. We will need to look through the fare percentages to see if our revenue aligns with our other data points.
 
